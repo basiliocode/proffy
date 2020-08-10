@@ -1,5 +1,5 @@
 <h1 align="center" style="background : #8257E5; padding-top: 2%" >
-    <img src="./public/images/logo.svg" alt="Proffy" height="60px" >
+    <img src="./public/images/logo-github.svg" alt="Proffy" height="60px" >
 </h1>
 
 <h1>
