@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="background : #8257E5; padding-top: 2%" >
     <img src="./public/images/logo.svg" alt="Proffy" height="60px" >
 </h1>
 
@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ git clone https://github.com/basiliocode/proffy.git
 
     # Entrar no diretório raiz do projeto
-    $ cd PROFFY
+    $ cd proffy
 
     # Instalar as depências necessárias
     $ npm install
