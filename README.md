@@ -5,7 +5,8 @@
 <h1>
     <img src="./public/demo-proffy.gif" >
 </h1>
-## ✏️ Sobre 
+
+## ✏️ Sobre  
 
 O projeto **Proffy** é uma aplicação que tem a finalidade de conectar professores que queiram lecionar de forma independente e alunos que queiram estudar matérias fundamentais de nivel médio. Esse projeto foi desenvolvido durante o evento **NLW2 (Next Level Week 2) da [RocketSeat](https://rocketseat.com.br/)** 🚀️  com o intuito de ajudar novos devs no inicio de suas carreiras e aperfeiçoar o conhecimento de devs que estejam no mercado através do entendimento prático. 
 
